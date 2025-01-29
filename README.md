@@ -9,8 +9,7 @@ Este es un proyecto interactivo diseñado para promover la adopción responsable
 Facilitar el proceso de adopción y brindar una experiencia amena para los amantes de las mascotas. 🐾❤️
 
 ## Tecnologías utilizadas
-- **HTML** y **JavaScript**
+- **HTML** , **Bootstrap** y **JavaScript**
 
 ## Cómo usar el simulador
-1. Ejecuta el archivo `.js` en tu navegador o en un entorno que soporte JavaScript.
-2. Sigue las instrucciones en los mensajes emergentes (alertas y prompts).
+Solo debes seguir las instrucciones en los mensajes emergentes (alertas y prompts).
